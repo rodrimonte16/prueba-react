@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-github-pages/build/static/css/main.9fb51de1.css",
+    "main.js": "/react-github-pages/build/static/js/main.d97eff44.js",
+    "index.html": "/react-github-pages/build/index.html",
+    "main.9fb51de1.css.map": "/react-github-pages/build/static/css/main.9fb51de1.css.map",
+    "main.d97eff44.js.map": "/react-github-pages/build/static/js/main.d97eff44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fb51de1.css",
+    "static/js/main.d97eff44.js"
+  ]
+}
